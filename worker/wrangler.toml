@@ -1,0 +1,14 @@
+name = "sparkling-wave-12fe-djhasgjdgesdgj3324gdjhw"
+main = "src/index.js"
+compatibility_date = "2023-02-15"
+usage_model = "bundled"
+env = { }
+
+kv_namespaces = [ 
+  { binding = "hcWaitlist", id = "5f89852cfd9d42a09a3b68b717efe5be" }
+]
+
+[triggers]
+crons = [ ]
+
+
